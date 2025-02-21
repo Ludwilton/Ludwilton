@@ -1,5 +1,10 @@
 - 👋 Hi, I’m Ludwig Carlegrund | @Ludwilton 
 - 🌱 I’m currently learning AI & Machine Learning at @ ITHS, Gothenburg
+- i am a musician, film nerd, camera guy, tech enthuisiast, ex pro mmo-gamer and a sponge in the depths of wikipedia & youtube science essays.
+
+
+#### I'm currently looking for a part-time job and an internship (HT25-VT26) where i can grow as a data scientist!
+#### Lets connect on LinkedIn! You can find my profile link where links belong.
 
 ##### _You will only find_ **_public_** _personal projects and school stuff here_
 <!---
