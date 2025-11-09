@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ludwig Carlegrund | @Ludwilton 
+- 👋 Hi, I’m Ludwig | @Ludwilton 
 - 🌱 I’m currently learning AI & Machine Learning at @ ITHS, Gothenburg
 - 👨‍💻 I'm a musician, film nerd, camera guy, tech enthusiast, ex pro mmo-gamer and a sponge in the depths of wikipedia & youtube science essays.
 
