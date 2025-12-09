@@ -3,7 +3,7 @@
 - 👨‍💻 I'm a musician, film nerd, camera guy, tech enthusiast, ex pro mmo-gamer and a sponge in the depths of wikipedia & youtube science essays.
 
 
-#### Lets connect on LinkedIn! You can find my profile link where links belong.
+
 
 ##### _You will only find_ **_public_** _personal projects and school stuff here_
 <!---
