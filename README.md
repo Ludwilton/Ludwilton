@@ -6,7 +6,7 @@
 
 
 ##### _You will only find_ **_public_** _personal projects and school stuff here_
-_My LSTM-B-VAE project & exam work on neural network audio modeling is currently under wraps, contact me if you would like a showcase/demo link!_
+_My LSTM-B-VAE project is currently under wraps, contact me if you would like more information about this project_
 <!---
 Ludwilton/Ludwilton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
